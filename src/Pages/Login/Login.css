@@ -1,0 +1,32 @@
+.login_paper{
+    margin-left: 35%;
+    margin-top: 6%;
+    margin-right: 35%;
+    padding-top:1%;
+    }
+.fields{
+    
+    padding-right: 15%;
+    padding-left: 15%;
+    }
+.btn-submit{
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.forgot_password{
+    padding-left: 15%;
+    padding-bottom: 15%;
+    font: caption;
+}
+.check_box{
+    padding-left: 13%;
+}
+.signup{
+    padding-bottom: 2%;
+    text-align: center;
+    font: small-caption;
+}
+
+
